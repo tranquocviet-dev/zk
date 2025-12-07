@@ -26,3 +26,5 @@ contains methods to trim the strings from either side
 [[js/StringPadMethod|string pad method]]
 pads either side of a string until a certain length
 
+[[StringContentMethod|string content method]]
+methods to interract with string's content

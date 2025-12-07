@@ -13,3 +13,4 @@ can use other kinds of quote inside quotes
 
 an advanced implementation is [[js/StringTemplate|string template]]
 have many [[js/StringMethod|string method]]
+can use [[StringSearch|string search]]

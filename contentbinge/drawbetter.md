@@ -1,3 +1,9 @@
+---
+tags:
+  - content
+  - l
+---
+
 1: get feedback
 Art without feedback is pointless, doesnt get you anywhere
 Simply doing something doesnt mean you will get good at it
