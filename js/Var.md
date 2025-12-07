@@ -6,7 +6,7 @@ tags:
   - javascript
   - p
 ---
-extension from [[JavasciptVariables|javascript variables]]
+extension from [[JavascriptVariables|javascript variables]]
 
 declares a global variable, can be changed
 can not hold multiple values (one only)

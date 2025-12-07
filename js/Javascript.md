@@ -12,8 +12,9 @@ loose typing and offers decode-time type checking, meaning the errors may not be
 ran unlike its superset [[ts/Typescript]]
 
 [[JavascriptSyntax|javascript syntax]]
-[[JavasciptVariables|javascript variables]]
+[[JavascriptVariables|javascript variables]]
 [[JavascriptOperators|javascriptoperators]]
 [[JavascriptIfConditions|javascript if conditions]]
 [[js/JavascriptLoops|javascript loops]]
 [[js/JavascriptString|javascript string]]
+[[js/JavascriptNumber|javascript number]]

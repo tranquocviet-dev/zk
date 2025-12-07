@@ -6,7 +6,7 @@ tags:
   - javascript
   - p
 ---
-extension from [[JavasciptVariables|javascript variables]]
+extension from [[JavascriptVariables|javascript variables]]
 
 declare a changable variable
 can hold multiple values
