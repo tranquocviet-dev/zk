@@ -4,6 +4,7 @@ aliases:
   - permanent notes
 tags:
   - zk
+  - p
 ---
 extended from [[zk|zettelkasten]]
 

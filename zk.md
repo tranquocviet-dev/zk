@@ -4,6 +4,7 @@ aliases:
   - zettelkasten
 tags:
   - zk
+  - p
 ---
 a bottom-up note taking method
 zettelKasten = slip box

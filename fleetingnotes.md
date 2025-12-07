@@ -4,6 +4,7 @@ aliases:
   - fleeting notes
 tags:
   - zk
+  - p
 ---
 extension from [[zk.md]]
 

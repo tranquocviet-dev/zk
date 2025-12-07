@@ -4,6 +4,7 @@ aliases:
   - literature notes
 tags:
   - zk
+  - p
 ---
 extension from [[zk|zettelkasten]]
 
