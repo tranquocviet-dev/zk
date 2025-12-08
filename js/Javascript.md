@@ -9,7 +9,7 @@ tags:
 a programming language for developing web
 
 loose typing and offers decode-time type checking, meaning the errors may not be seen until 
-ran unlike its superset [[ts/Typescript]]
+ran unlike its superset [[Typescript|typescript base]] 
 
 [[JavascriptSyntax|javascript syntax]]
 [[JavascriptVariables|javascript variables]]
@@ -18,3 +18,5 @@ ran unlike its superset [[ts/Typescript]]
 [[js/JavascriptLoops|javascript loops]]
 [[js/JavascriptString|javascript string]]
 [[js/JavascriptNumber|javascript number]]
+[[JavascriptFunction|javascript function]]
+[[JavascriptObject|javascript object]]

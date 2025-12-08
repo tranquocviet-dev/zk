@@ -4,7 +4,7 @@ aliases:
   - string method
 tags:
   - javascript
-  - p
+  - l
 ---
 extension from [[JavascriptString|javascript string]]
 

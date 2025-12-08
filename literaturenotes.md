@@ -13,4 +13,4 @@ can think of it as Razor language
 implementation: `AuthorName.md` or `SubjectName.md`
 tag: `l`
 
-will be converted into [[permanentnotes.md]]
+will be converted into [[permanentnotes.md|permanent notes]]

@@ -16,3 +16,4 @@ Infinity is a number, num / 0 = Infinity
 dont create number object
 
 numbers have [[js/NumberMethod|number method]]
+and [[NumberProperties|number properties]]
