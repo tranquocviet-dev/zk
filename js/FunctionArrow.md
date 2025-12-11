@@ -7,6 +7,6 @@ tags:
   - p
 ---
 
-extension from [[JavascriptFunction|javascript function]]
+extension from [[Function|function]]
 a shorter way to call function expressions, using only single brackets and arrows (hence the name)
 

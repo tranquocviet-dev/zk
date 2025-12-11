@@ -8,7 +8,7 @@ tags:
 ---
 extension from [[JavascriptString|javascript string]]
 
-[[js/StringLengthMethod|string length method]]
+[[Length|length]]
 contains method to find the string length
 
 [[js/StringCharacterMethod|string character method]]

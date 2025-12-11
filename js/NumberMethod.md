@@ -7,7 +7,7 @@ tags:
   - p
 ---
 extension from [[JavascriptNumber|javascript number]]
-`toString()` convert number to string
+[[ToString|toString]] convert number to string
 `toExponental()` change the number format to x.xxxxxe+n
 `toFixed()` change the number format to n decimals
 `toPrecision()` returns number with length n

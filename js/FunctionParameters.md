@@ -7,5 +7,5 @@ tags:
   - p
 ---
 
-extension from [[JavascriptFunction|javascript function]]
+extension from [[Function|function]]
 parameters are assets inside [[Function|function]], can have default values
