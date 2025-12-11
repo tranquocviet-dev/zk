@@ -7,5 +7,6 @@ tags:
   - p
 ---
 extension from [[StringMethod|string method]]
-`slice(start, end)` creates new string from old string's parts. values under 0 are counted backwards
+
+[[Slice|slice]]
 `substr(start, end)` same as slice but doesnt accept values under 0

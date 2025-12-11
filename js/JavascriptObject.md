@@ -37,7 +37,7 @@ function createObject (arg1, arg2) {
 [[ObjectProperties|object properties]]
 properties are the keys and values in object
 properties can be added with `object.newproperties = "value"`
-properties can be deleted with `delete object.properties`
+properties can be deleted with [[js/Delete|delete]]
 properties can be other objects
 
 [[ObjectMethod|object method]]

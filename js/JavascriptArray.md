@@ -11,7 +11,7 @@ extension from [[Javascript|javascript base]]
 [[Array|array]] allows for storing multiple data in a collection
 declared using `[]`
 add elements and change elements using `arrayname[num] = value;`
-or the `push()` function
+or the [[Push|push]] function
 array elements start at 0
 array elements can be assigned names
 extensions:

@@ -9,7 +9,9 @@ tags:
 extension from [[JavascriptArray|javascript array]]
 
 numeric sorts:
-sort
-reverse
-toSorted
-toReversed
+produces inconsisten results due to sorting number as strings
+[[js/Sort|sort]]
+[[js/Reverse|reverse]]
+[[js/ToSorted|toSorted]]
+[[js/ToReversed|toReversed]]
+
