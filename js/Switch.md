@@ -8,6 +8,8 @@ tags:
 ---
 extension from [[JavascriptIfConditions|javascript if conditions]]
 
+when activated, the command does different pre-determined things based on the situation
+
 ```javascript
 switch (command){
 	case 1:

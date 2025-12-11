@@ -8,11 +8,11 @@ tags:
 ---
 extension from [[JavascriptArray|javascript array]]
 
-forEach
-map
-flatmap
-filter
-reduce
+[[js/ForEach|forEach]]
+[[js/Map|map]]
+[[js/FlatMap|flatMap]]
+[[js/Filter|filter]]
+[[js/Reduce|reduce]]
 reduceRight
 every
 some
