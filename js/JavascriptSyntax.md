@@ -17,7 +17,7 @@ numbers eg `10` or `11.5`
 strings eg `'John Doe'` or `"Jane Doe"`
 
 [[VariableValues|variable values]]
-created using `let` or `const`
+created using `let`, `var` or `const` 
 must be identfied with unique names
 
 [[Identifiers|identifiers]]

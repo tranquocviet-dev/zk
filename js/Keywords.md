@@ -13,7 +13,7 @@ extension from [[JavascriptSyntax|javascript syntax]]
 [[Const|const]] declare block constant
 [[If|if]] condition for statement
 [[Switch|switch]] different cases for execution
-for marks statement loops condition
-function declares function
-return exits function
-try handle errors with commands after try
+[[For|for]] marks statement loops condition
+[[Function|function]] declares function
+[[Return|return]] exits function
+[[Try|try]] handle errors with commands after try
