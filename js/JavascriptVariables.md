@@ -11,6 +11,8 @@ extension from [[Javascript|javascript base]]
 [[VariableValues|variable values]] are containers of data, have [[Identifiers|identifiers]] as their name
 have to be declared
 
-[[Const|const]] and [[Let|let]] are not supported by older browsers
+[[Const|const]] 
+[[Let|let]]
+[[Var|var]]
 
 Data have [[JavaScriptDataTypes|javascript data types]]
